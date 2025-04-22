@@ -1,2 +1,2 @@
 # demo
-Author - Garima Vashistha
+Author - Garima Sharma Vashistha
